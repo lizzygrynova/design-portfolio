@@ -1,4 +1,4 @@
-# CAD Portfolio
+# Design Portfolio
 
 A collection of my CAD and engineering projects completed through coursework and personal practice.
 
